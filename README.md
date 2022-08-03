@@ -10,5 +10,8 @@ Maven: v3.8 <br>
 mysql <br>
 mybatis <br>
 lombok <br>
+...
 
+### 文件编码
+均UTF-8
 
